@@ -28,8 +28,8 @@ The project is built using PHP, MySql, Html, CSS and Javascript.
 
 ## Authors
 
-* **Priyanka yadav**
-* **Harsh Joshi**
+* [**Priyanka yadav**])(https://github.com/Priyanka488)
+* [**Harsh Joshi**](https://github.com/josharsh)
 
 ## License
 
